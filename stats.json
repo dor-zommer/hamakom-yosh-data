@@ -1,0 +1,516 @@
+{
+  "generated_at": "2026-07-27T16:22:08Z",
+  "total_plans": 2568,
+  "geocoded": 1841,
+  "curated_map_plans": 95,
+  "regul_plans": 172,
+  "excluded_infra": 170,
+  "excluded_unknown": 147,
+  "sector_final_approval": {
+    "jewish": {
+      "plans": 1851,
+      "approve_rate": 70.7,
+      "units_in_plans": 117895,
+      "units_approved": 58540
+    },
+    "palestinian": {
+      "plans": 400,
+      "approve_rate": 29.8,
+      "units_in_plans": 104,
+      "units_approved": 0
+    }
+  },
+  "sector_wide_approval": {
+    "jewish": {
+      "plans": 1851,
+      "approve_rate": 72.2,
+      "units_in_plans": 117895,
+      "units_approved": 61928
+    },
+    "palestinian": {
+      "plans": 400,
+      "approve_rate": 31.8,
+      "units_in_plans": 104,
+      "units_approved": 104
+    }
+  },
+  "density_outliers": [],
+  "by_year": [
+    {
+      "year": "1941",
+      "plans": 1,
+      "units": 0,
+      "jewish": 0,
+      "palestinian": 0
+    },
+    {
+      "year": "1980",
+      "plans": 3,
+      "units": 0,
+      "jewish": 2,
+      "palestinian": 0
+    },
+    {
+      "year": "1982",
+      "plans": 2,
+      "units": 0,
+      "jewish": 1,
+      "palestinian": 0
+    },
+    {
+      "year": "1983",
+      "plans": 5,
+      "units": 0,
+      "jewish": 3,
+      "palestinian": 1
+    },
+    {
+      "year": "1984",
+      "plans": 2,
+      "units": 0,
+      "jewish": 1,
+      "palestinian": 0
+    },
+    {
+      "year": "1985",
+      "plans": 9,
+      "units": 850,
+      "jewish": 6,
+      "palestinian": 1
+    },
+    {
+      "year": "1986",
+      "plans": 13,
+      "units": 227,
+      "jewish": 6,
+      "palestinian": 0
+    },
+    {
+      "year": "1987",
+      "plans": 8,
+      "units": 0,
+      "jewish": 3,
+      "palestinian": 0
+    },
+    {
+      "year": "1988",
+      "plans": 11,
+      "units": 0,
+      "jewish": 3,
+      "palestinian": 1
+    },
+    {
+      "year": "1989",
+      "plans": 15,
+      "units": 449,
+      "jewish": 7,
+      "palestinian": 1
+    },
+    {
+      "year": "1990",
+      "plans": 16,
+      "units": 0,
+      "jewish": 10,
+      "palestinian": 3
+    },
+    {
+      "year": "1991",
+      "plans": 9,
+      "units": 349,
+      "jewish": 7,
+      "palestinian": 0
+    },
+    {
+      "year": "1992",
+      "plans": 43,
+      "units": 344,
+      "jewish": 19,
+      "palestinian": 13
+    },
+    {
+      "year": "1993",
+      "plans": 22,
+      "units": 0,
+      "jewish": 4,
+      "palestinian": 6
+    },
+    {
+      "year": "1994",
+      "plans": 21,
+      "units": 0,
+      "jewish": 5,
+      "palestinian": 9
+    },
+    {
+      "year": "1995",
+      "plans": 13,
+      "units": 0,
+      "jewish": 3,
+      "palestinian": 6
+    },
+    {
+      "year": "1996",
+      "plans": 14,
+      "units": 0,
+      "jewish": 10,
+      "palestinian": 0
+    },
+    {
+      "year": "1997",
+      "plans": 15,
+      "units": 163,
+      "jewish": 10,
+      "palestinian": 0
+    },
+    {
+      "year": "1998",
+      "plans": 17,
+      "units": 1088,
+      "jewish": 13,
+      "palestinian": 2
+    },
+    {
+      "year": "1999",
+      "plans": 43,
+      "units": 2586,
+      "jewish": 26,
+      "palestinian": 7
+    },
+    {
+      "year": "2000",
+      "plans": 13,
+      "units": 0,
+      "jewish": 6,
+      "palestinian": 4
+    },
+    {
+      "year": "2001",
+      "plans": 18,
+      "units": 0,
+      "jewish": 9,
+      "palestinian": 4
+    },
+    {
+      "year": "2002",
+      "plans": 14,
+      "units": 0,
+      "jewish": 9,
+      "palestinian": 2
+    },
+    {
+      "year": "2003",
+      "plans": 20,
+      "units": 214,
+      "jewish": 17,
+      "palestinian": 0
+    },
+    {
+      "year": "2004",
+      "plans": 27,
+      "units": 0,
+      "jewish": 17,
+      "palestinian": 4
+    },
+    {
+      "year": "2005",
+      "plans": 13,
+      "units": 0,
+      "jewish": 7,
+      "palestinian": 2
+    },
+    {
+      "year": "2006",
+      "plans": 23,
+      "units": 97,
+      "jewish": 10,
+      "palestinian": 3
+    },
+    {
+      "year": "2007",
+      "plans": 6,
+      "units": 0,
+      "jewish": 5,
+      "palestinian": 0
+    },
+    {
+      "year": "2008",
+      "plans": 15,
+      "units": 938,
+      "jewish": 12,
+      "palestinian": 1
+    },
+    {
+      "year": "2009",
+      "plans": 19,
+      "units": 0,
+      "jewish": 14,
+      "palestinian": 1
+    },
+    {
+      "year": "2010",
+      "plans": 16,
+      "units": 1,
+      "jewish": 8,
+      "palestinian": 3
+    },
+    {
+      "year": "2011",
+      "plans": 34,
+      "units": 182,
+      "jewish": 24,
+      "palestinian": 7
+    },
+    {
+      "year": "2012",
+      "plans": 63,
+      "units": 483,
+      "jewish": 45,
+      "palestinian": 10
+    },
+    {
+      "year": "2013",
+      "plans": 192,
+      "units": 2010,
+      "jewish": 111,
+      "palestinian": 62
+    },
+    {
+      "year": "2014",
+      "plans": 157,
+      "units": 2093,
+      "jewish": 79,
+      "palestinian": 68
+    },
+    {
+      "year": "2015",
+      "plans": 147,
+      "units": 3298,
+      "jewish": 105,
+      "palestinian": 28
+    },
+    {
+      "year": "2016",
+      "plans": 108,
+      "units": 1413,
+      "jewish": 80,
+      "palestinian": 19
+    },
+    {
+      "year": "2017",
+      "plans": 103,
+      "units": 2026,
+      "jewish": 81,
+      "palestinian": 7
+    },
+    {
+      "year": "2018",
+      "plans": 118,
+      "units": 1747,
+      "jewish": 102,
+      "palestinian": 5
+    },
+    {
+      "year": "2019",
+      "plans": 146,
+      "units": 3911,
+      "jewish": 88,
+      "palestinian": 47
+    },
+    {
+      "year": "2020",
+      "plans": 119,
+      "units": 6374,
+      "jewish": 75,
+      "palestinian": 24
+    },
+    {
+      "year": "2021",
+      "plans": 86,
+      "units": 4419,
+      "jewish": 58,
+      "palestinian": 18
+    },
+    {
+      "year": "2022",
+      "plans": 94,
+      "units": 4712,
+      "jewish": 75,
+      "palestinian": 10
+    },
+    {
+      "year": "2023",
+      "plans": 123,
+      "units": 7986,
+      "jewish": 112,
+      "palestinian": 6
+    },
+    {
+      "year": "2024",
+      "plans": 139,
+      "units": 10560,
+      "jewish": 126,
+      "palestinian": 5
+    },
+    {
+      "year": "2025",
+      "plans": 358,
+      "units": 48055,
+      "jewish": 334,
+      "palestinian": 5
+    },
+    {
+      "year": "2026",
+      "plans": 109,
+      "units": 12530,
+      "jewish": 102,
+      "palestinian": 0
+    }
+  ],
+  "status_by_sector": [
+    {
+      "status": "אישור",
+      "jewish": 1309,
+      "palestinian": 119,
+      "jewish_units": 58540,
+      "palestinian_units": 0
+    },
+    {
+      "status": "בבדיקה תכנונית",
+      "jewish": 237,
+      "palestinian": 115,
+      "jewish_units": 25296,
+      "palestinian_units": 0
+    },
+    {
+      "status": "נדחתה",
+      "jewish": 159,
+      "palestinian": 18,
+      "jewish_units": 16518,
+      "palestinian_units": 0
+    },
+    {
+      "status": "בבדיקת תנאי סף",
+      "jewish": 10,
+      "palestinian": 95,
+      "jewish_units": 522,
+      "palestinian_units": 0
+    },
+    {
+      "status": "במילוי תנאים להפקדה",
+      "jewish": 54,
+      "palestinian": 23,
+      "jewish_units": 8511,
+      "palestinian_units": 0
+    },
+    {
+      "status": "הפקדה להתנגדויות/השגות",
+      "jewish": 42,
+      "palestinian": 5,
+      "jewish_units": 3172,
+      "palestinian_units": 0
+    },
+    {
+      "status": "הכרעה בהתנגדויות / אישור",
+      "jewish": 28,
+      "palestinian": 8,
+      "jewish_units": 3388,
+      "palestinian_units": 104
+    },
+    {
+      "status": "בהליך אישור",
+      "jewish": 12,
+      "palestinian": 12,
+      "jewish_units": 1948,
+      "palestinian_units": 0
+    },
+    {
+      "status": "(חסר)",
+      "jewish": 0,
+      "palestinian": 5,
+      "jewish_units": 0,
+      "palestinian_units": 0
+    }
+  ],
+  "land_use": [
+    {
+      "category": "other",
+      "plans": 616,
+      "units": 0
+    },
+    {
+      "category": "res_nounits",
+      "plans": 600,
+      "units": 0
+    },
+    {
+      "category": "res_units",
+      "plans": 576,
+      "units": 119105
+    },
+    {
+      "category": "infra",
+      "plans": 195,
+      "units": 0
+    },
+    {
+      "category": "employ",
+      "plans": 173,
+      "units": 0
+    },
+    {
+      "category": "regul",
+      "plans": 172,
+      "units": 0
+    },
+    {
+      "category": "public",
+      "plans": 131,
+      "units": 0
+    },
+    {
+      "category": "openspace",
+      "plans": 61,
+      "units": 0
+    },
+    {
+      "category": "tourism",
+      "plans": 21,
+      "units": 0
+    },
+    {
+      "category": "agri",
+      "plans": 14,
+      "units": 0
+    },
+    {
+      "category": "(none)",
+      "plans": 9,
+      "units": 0
+    }
+  ],
+  "regul_share_pct": 6.7,
+  "overlay_counts": {
+    "area_c": {
+      "plans_inside": 1768,
+      "units_inside": 112233,
+      "pct_of_geocoded": 96.0
+    },
+    "state_land": {
+      "plans_inside": 882,
+      "units_inside": 62341,
+      "pct_of_geocoded": 47.9
+    },
+    "firing_zones": {
+      "plans_inside": 64,
+      "units_inside": 5661,
+      "pct_of_geocoded": 3.5
+    },
+    "agriculture": {
+      "plans_inside": 15,
+      "units_inside": 1283,
+      "pct_of_geocoded": 0.8
+    }
+  },
+  "geocoded_basis": 1841,
+  "quarantined": 0
+}
