@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-27T17:34:34Z",
+  "generated_at": "2026-07-30T12:26:27Z",
   "total_plans": 2568,
-  "geocoded": 1841,
-  "curated_map_plans": 95,
+  "geocoded": 2568,
+  "curated_map_plans": 100,
   "regul_plans": 172,
   "excluded_infra": 170,
   "excluded_unknown": 147,
@@ -25,7 +25,7 @@
       "plans": 1851,
       "approve_rate": 72.2,
       "units_in_plans": 117895,
-      "units_approved": 61928
+      "units_approved": 61772
     },
     "palestinian": {
       "plans": 400,
@@ -353,16 +353,16 @@
     },
     {
       "year": "2025",
-      "plans": 358,
-      "units": 48055,
-      "jewish": 334,
+      "plans": 357,
+      "units": 47899,
+      "jewish": 333,
       "palestinian": 5
     },
     {
       "year": "2026",
-      "plans": 109,
-      "units": 12530,
-      "jewish": 102,
+      "plans": 110,
+      "units": 12686,
+      "jewish": 103,
       "palestinian": 0
     }
   ],
@@ -411,16 +411,16 @@
     },
     {
       "status": "הכרעה בהתנגדויות / אישור",
-      "jewish": 28,
+      "jewish": 27,
       "palestinian": 8,
-      "jewish_units": 3388,
+      "jewish_units": 3232,
       "palestinian_units": 104
     },
     {
       "status": "בהליך אישור",
-      "jewish": 12,
+      "jewish": 13,
       "palestinian": 12,
-      "jewish_units": 1948,
+      "jewish_units": 2104,
       "palestinian_units": 0
     },
     {
@@ -491,26 +491,26 @@
   "regul_share_pct": 6.7,
   "overlay_counts": {
     "area_c": {
-      "plans_inside": 1768,
-      "units_inside": 112233,
-      "pct_of_geocoded": 96.0
+      "plans_inside": 1995,
+      "units_inside": 113420,
+      "pct_of_geocoded": 77.7
     },
     "state_land": {
-      "plans_inside": 882,
-      "units_inside": 62341,
-      "pct_of_geocoded": 47.9
+      "plans_inside": 937,
+      "units_inside": 62445,
+      "pct_of_geocoded": 36.5
     },
     "firing_zones": {
-      "plans_inside": 64,
+      "plans_inside": 79,
       "units_inside": 5661,
-      "pct_of_geocoded": 3.5
+      "pct_of_geocoded": 3.1
     },
     "agriculture": {
-      "plans_inside": 15,
+      "plans_inside": 20,
       "units_inside": 1283,
       "pct_of_geocoded": 0.8
     }
   },
-  "geocoded_basis": 1841,
+  "geocoded_basis": 2568,
   "quarantined": 0
 }

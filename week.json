@@ -1,33 +1,25 @@
 {
-  "generated_at": "2026-07-27T17:34:34Z",
+  "generated_at": "2026-07-30T12:26:27Z",
   "window_days": 7,
-  "new_count": 4,
+  "new_count": 2,
   "new_units": 0,
   "new_30d_count": 9,
   "new_30d_units": 0,
-  "moved_count": 0,
-  "moved": [],
+  "moved_count": 1,
+  "moved": [
+    {
+      "pl_number": "יוש/ 2/ 512",
+      "pl_name": "עותניאל",
+      "settlement": "הר חברון,עתניאל",
+      "sector": "jewish",
+      "units": 156,
+      "from": "הכרעה בהתנגדויות / אישור",
+      "to": "בהליך אישור",
+      "at": "2026-07-29",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000291281/310"
+    }
+  ],
   "items": [
-    {
-      "pl_number": "יוש/ 19/ 5/ ת/ 130",
-      "pl_name": "א.ת. ברקן, שינוי הוראות בניה מגרשים 10 11",
-      "settlement": "ברקן,שומרון",
-      "status": "בבדיקה תכנונית",
-      "sector": "jewish",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005561402/310",
-      "first_seen": "2026-07-20"
-    },
-    {
-      "pl_number": "יוש/ 5/ 3/ 206",
-      "pl_name": "נילי, שינוי הוראות בניה במגרש 1009 למבני ציבור",
-      "settlement": "מטה בנימין,ניל\"י",
-      "status": "בבדיקה תכנונית",
-      "sector": "jewish",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005561404/310",
-      "first_seen": "2026-07-20"
-    },
     {
       "pl_number": "יוש/ 94/ 5/ 410",
       "pl_name": "קביעת הוראות ומגבלות בניה ברח' הזורעים 72-80, העומר 50 , אפרת",
