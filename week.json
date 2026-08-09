@@ -1,44 +1,119 @@
 {
-  "generated_at": "2026-08-02T05:40:01Z",
+  "generated_at": "2026-08-09T05:40:02Z",
   "window_days": 7,
-  "new_count": 2,
+  "new_count": 4,
   "new_units": 0,
-  "new_30d_count": 9,
+  "new_30d_count": 8,
   "new_30d_units": 0,
-  "moved_count": 1,
+  "moved_count": 6,
   "moved": [
+    {
+      "pl_number": "יוש/ 1/ 6/ 160",
+      "pl_name": "פדואל, שינוי הוראות ומגבלות בניה מגרש 2039",
+      "settlement": "פדואל,שומרון",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בבדיקה תכנונית",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-08-05",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005488112/310"
+    },
+    {
+      "pl_number": "יוש/ 23/ 9/ 3/ 121",
+      "pl_name": "שינוי הוראות ומגבלות בניה במגרש 388",
+      "settlement": "אורנית",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בבדיקה תכנונית",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-08-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005453944/310"
+    },
+    {
+      "pl_number": "יוש/ 37/ 1/ 420",
+      "pl_name": "מעלה אדומים, מוזיאון ,מיגרש 324",
+      "settlement": "מעלה אדומים",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בהליך אישור",
+      "to": "אישור",
+      "at": "2026-08-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005195420/310"
+    },
+    {
+      "pl_number": "יוש/ 37/ 1/ 420",
+      "pl_name": "מעלה אדומים, מוזיאון ,מיגרש 324",
+      "settlement": "מעלה אדומים",
+      "sector": "jewish",
+      "units": 0,
+      "from": "הכרעה בהתנגדויות / אישור",
+      "to": "בהליך אישור",
+      "at": "2026-08-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005195420/310"
+    },
+    {
+      "pl_number": "יוש/ 22/ 9/ 3/ 121",
+      "pl_name": "אורנית, הפיכת מגרש חד משפחתי למגרש דו משפחתי",
+      "settlement": "אורנית",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בבדיקה תכנונית",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-08-02",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005317126/310"
+    },
     {
       "pl_number": "יוש/ 2/ 512",
       "pl_name": "עותניאל",
       "settlement": "הר חברון,עתניאל",
       "sector": "jewish",
       "units": 156,
-      "from": "הכרעה בהתנגדויות / אישור",
-      "to": "בהליך אישור",
-      "at": "2026-07-29",
+      "from": "בהליך אישור",
+      "to": "אישור",
+      "at": "2026-08-02",
       "url": "https://mavat.iplan.gov.il/SV4/1/7000291281/310"
     }
   ],
   "items": [
     {
-      "pl_number": "יוש/ 94/ 5/ 410",
-      "pl_name": "קביעת הוראות ומגבלות בניה ברח' הזורעים 72-80, העומר 50 , אפרת",
-      "settlement": "אפרת",
-      "status": "בבדיקה תכנונית",
-      "sector": "jewish",
+      "pl_number": "יוש/ 1107",
+      "pl_name": "תוכנית מתאר מיוחדת לכפר ביר אל בשא",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "אישור",
+      "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005536186/310",
-      "first_seen": "2026-07-26"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000269339/310",
+      "first_seen": "2026-08-02"
     },
     {
-      "pl_number": "יוש/ 30/ 3/ 214",
-      "pl_name": "הרחבת הישוב הר אדר",
-      "settlement": "הר אדר",
+      "pl_number": "714-1591601",
+      "pl_name": "אלון שבות (405/6/6/4)",
+      "settlement": "גוש עציון",
       "status": "בבדיקה תכנונית",
-      "sector": "jewish",
+      "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005522570/310",
-      "first_seen": "2026-07-26"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005537138/310",
+      "first_seen": "2026-08-04"
+    },
+    {
+      "pl_number": "יוש/ 1/ 1/ 300",
+      "pl_name": "הוספת יישוב יפית לתקנון אזורי של בקעת הירדן",
+      "settlement": "יפית,ערבות הירדן",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005519918/310",
+      "first_seen": "2026-08-05"
+    },
+    {
+      "pl_number": "יוש/ 4/ 10/ 510",
+      "pl_name": "קרית ארבע, שכונת גל",
+      "settlement": "קריית ארבע",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005565500/310",
+      "first_seen": "2026-08-05"
     }
   ]
 }
