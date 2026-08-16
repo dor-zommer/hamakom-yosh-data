@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T05:40:02Z",
+  "generated_at": "2026-08-16T05:40:01Z",
   "total_plans": 2572,
   "geocoded": 2568,
-  "curated_map_plans": 104,
+  "curated_map_plans": 105,
   "regul_plans": 172,
   "excluded_infra": 170,
   "excluded_unknown": 151,
@@ -346,23 +346,23 @@
     },
     {
       "year": "2024",
-      "plans": 139,
+      "plans": 138,
       "units": 10560,
-      "jewish": 126,
+      "jewish": 125,
       "palestinian": 5
     },
     {
       "year": "2025",
-      "plans": 355,
+      "plans": 353,
       "units": 47899,
-      "jewish": 331,
+      "jewish": 329,
       "palestinian": 5
     },
     {
       "year": "2026",
-      "plans": 117,
+      "plans": 120,
       "units": 12786,
-      "jewish": 107,
+      "jewish": 110,
       "palestinian": 0
     }
   ],
@@ -376,14 +376,14 @@
     },
     {
       "status": "בבדיקה תכנונית",
-      "jewish": 234,
+      "jewish": 230,
       "palestinian": 115,
       "jewish_units": 25296,
       "palestinian_units": 0
     },
     {
       "status": "נדחתה",
-      "jewish": 159,
+      "jewish": 161,
       "palestinian": 18,
       "jewish_units": 16518,
       "palestinian_units": 0
@@ -397,7 +397,7 @@
     },
     {
       "status": "במילוי תנאים להפקדה",
-      "jewish": 54,
+      "jewish": 56,
       "palestinian": 23,
       "jewish_units": 8511,
       "palestinian_units": 0
