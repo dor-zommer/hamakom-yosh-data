@@ -1,67 +1,185 @@
 {
-  "generated_at": "2026-08-16T05:40:01Z",
+  "generated_at": "2026-08-23T05:40:01Z",
   "window_days": 7,
-  "new_count": 0,
+  "new_count": 15,
   "new_units": 0,
-  "new_30d_count": 8,
+  "new_30d_count": 21,
   "new_30d_units": 0,
-  "moved_count": 5,
+  "moved_count": 2,
   "moved": [
     {
-      "pl_number": "יוש/ 1/ 109",
-      "pl_name": "חומש, מוסד חינוכי",
-      "settlement": "שומרון",
+      "pl_number": "יוש/ 7/ 203",
+      "pl_name": "חלמיש, הרחבת היישוב",
+      "settlement": "חלמיש,מטה בנימין",
       "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "נדחתה",
-      "at": "2026-08-13",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005467820/310"
+      "units": 456,
+      "from": "הפקדה להתנגדויות/השגות",
+      "to": "הכרעה בהתנגדויות / אישור",
+      "at": "2026-08-21",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005246290/310"
     },
     {
-      "pl_number": "יוש/ 6/ 2/ 1/ 112",
-      "pl_name": "סלעית, פוטו וולטאי",
-      "settlement": "סלעית,שומרון",
+      "pl_number": "יוש/ 524",
+      "pl_name": "אביגיל, מגורים, מבני ציבור וייעודים נוספים",
+      "settlement": "אביגיל,הר חברון",
       "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "במילוי תנאים להפקדה",
-      "at": "2026-08-12",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005444884/310"
-    },
-    {
-      "pl_number": "יוש/ 3/ א/ 7/ 426",
-      "pl_name": "ביתר עילית, שינוי ייעוד משטח לתכנון בעתיד לשטח למבני ציבור ולשצ\"פ",
-      "settlement": "ביתר עילית",
-      "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "במילוי תנאים להפקדה",
-      "at": "2026-08-12",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005426720/310"
-    },
-    {
-      "pl_number": "יוש/ 2/ 1/ 9/ 210",
-      "pl_name": "מודיעין עילית, שינוי קו בנין קדמי לכיוו חניה ציבורית",
-      "settlement": "מודיעין עילית",
-      "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "נדחתה",
-      "at": "2026-08-11",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005472074/310"
-    },
-    {
-      "pl_number": "יוש/ 2/ 1/ 9/ 210",
-      "pl_name": "מודיעין עילית, שינוי קו בנין קדמי לכיוו חניה ציבורית",
-      "settlement": "מודיעין עילית",
-      "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "נדחתה",
-      "at": "2026-08-10",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005472074/310"
+      "units": 278,
+      "from": "במילוי תנאים להפקדה",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-08-18",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000517859/310"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "pl_number": "יוש/ 1/ 3/ 6/ 210",
+      "pl_name": "מודיעין עילית, קרית אלימלך צפון, שטחי ציבור ומלונאות",
+      "settlement": "מודיעין עילית",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568118/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 1/ 4/ 200",
+      "pl_name": "מטה בנימין, תוסספת שימושים וזכויות למגרים בייעוד שצ\"פ או משולבים",
+      "settlement": "מטה בנימין",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568076/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ תמא/ 73",
+      "pl_name": "תכנית מתאר אזורית (חלקית) ברמה מפורטת למיגון (בנייצ מרחב מוגן) ולהצבת מיגוניות",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568750/310",
+      "first_seen": "2026-08-18"
+    },
+    {
+      "pl_number": "יוש/ 11/ 600",
+      "pl_name": "מגילות, אזור תעשיה",
+      "settlement": "מגילות,מגילות ים המלח",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568096/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 12/ 242",
+      "pl_name": "כוכב יעקב, הרחבת יישוב",
+      "settlement": "כוכב יעקב,מטה בנימין",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568066/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 2/ 8/ 204",
+      "pl_name": "עטרת, מתקנים הנדסיים, שינוי הוראות בניה",
+      "settlement": "מטה בנימין,עטרת",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568084/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 3/ 1/ 407",
+      "pl_name": "מגדל עוז, הסדרת יישוב",
+      "settlement": "גוש עציון,מגדל עוז",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568004/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 35/ 220",
+      "pl_name": "גבעת זאב, שינוי הוראות למבני שיבור, שצ\"פ ושטחים פתוחים",
+      "settlement": "גבעת זאב",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568056/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 4/ 200",
+      "pl_name": "מטה בנימין, תוספת וזכויות שימושים בשצ\"פ או משולבים שצ\"פ",
+      "settlement": "מטה בנימין",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568068/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 5/ 4/ 412",
+      "pl_name": "תקוע, הסדרת מצב קיים",
+      "settlement": "גוש עציון,תקוע",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568044/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 5/ 407",
+      "pl_name": "מגדל עוז, הרחבת יישוב",
+      "settlement": "גוש עציון,מגדל עוז",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568112/310",
+      "first_seen": "2026-08-17"
+    },
+    {
+      "pl_number": "יוש/ 6/ 200",
+      "pl_name": "מטה בנימין, שינוי הוראות ומגבלות בניה בתחום תכניות מאושרות",
+      "settlement": "מטה בנימין",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568102/310",
+      "first_seen": "2026-08-16"
+    },
+    {
+      "pl_number": "יוש/ 1648",
+      "pl_name": "ח'רבת זכריה",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "בבדיקת תנאי סף",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000273751/310",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "pl_number": "יוש/ 1115",
+      "pl_name": "תוכנית מתאר מיוחדת לכפר חרבת דבר אל עבד",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "אישור",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000269511/310",
+      "first_seen": "2026-08-20"
+    },
+    {
+      "pl_number": "יוש/ 1129",
+      "pl_name": "תוכנית מתאר מיוחדת לכפר ח'רבת עקבה (מזרח)",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "אישור",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000269583/310",
+      "first_seen": "2026-08-20"
+    }
+  ]
 }

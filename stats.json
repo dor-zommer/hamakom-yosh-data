@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T05:40:01Z",
-  "total_plans": 2572,
+  "generated_at": "2026-08-23T05:40:01Z",
+  "total_plans": 2587,
   "geocoded": 2568,
-  "curated_map_plans": 105,
+  "curated_map_plans": 106,
   "regul_plans": 172,
   "excluded_infra": 170,
-  "excluded_unknown": 151,
+  "excluded_unknown": 166,
   "sector_final_approval": {
     "jewish": {
       "plans": 1851,
@@ -23,9 +23,9 @@
   "sector_wide_approval": {
     "jewish": {
       "plans": 1851,
-      "approve_rate": 72.2,
+      "approve_rate": 72.3,
       "units_in_plans": 117895,
-      "units_approved": 61928
+      "units_approved": 62384
     },
     "palestinian": {
       "plans": 400,
@@ -220,7 +220,7 @@
     },
     {
       "year": "2006",
-      "plans": 24,
+      "plans": 26,
       "units": 97,
       "jewish": 10,
       "palestinian": 3
@@ -262,7 +262,7 @@
     },
     {
       "year": "2012",
-      "plans": 63,
+      "plans": 64,
       "units": 483,
       "jewish": 45,
       "palestinian": 10
@@ -353,16 +353,16 @@
     },
     {
       "year": "2025",
-      "plans": 353,
-      "units": 47899,
-      "jewish": 329,
+      "plans": 352,
+      "units": 47621,
+      "jewish": 328,
       "palestinian": 5
     },
     {
       "year": "2026",
-      "plans": 120,
-      "units": 12786,
-      "jewish": 110,
+      "plans": 133,
+      "units": 13064,
+      "jewish": 111,
       "palestinian": 0
     }
   ],
@@ -397,23 +397,23 @@
     },
     {
       "status": "במילוי תנאים להפקדה",
-      "jewish": 56,
+      "jewish": 55,
       "palestinian": 23,
-      "jewish_units": 8511,
+      "jewish_units": 8233,
       "palestinian_units": 0
     },
     {
       "status": "הפקדה להתנגדויות/השגות",
       "jewish": 45,
       "palestinian": 5,
-      "jewish_units": 3172,
+      "jewish_units": 2994,
       "palestinian_units": 0
     },
     {
       "status": "הכרעה בהתנגדויות / אישור",
-      "jewish": 26,
+      "jewish": 27,
       "palestinian": 8,
-      "jewish_units": 3232,
+      "jewish_units": 3688,
       "palestinian_units": 104
     },
     {
@@ -473,6 +473,11 @@
       "units": 0
     },
     {
+      "category": "(none)",
+      "plans": 28,
+      "units": 0
+    },
+    {
       "category": "tourism",
       "plans": 21,
       "units": 0
@@ -481,14 +486,9 @@
       "category": "agri",
       "plans": 14,
       "units": 0
-    },
-    {
-      "category": "(none)",
-      "plans": 13,
-      "units": 0
     }
   ],
-  "regul_share_pct": 6.7,
+  "regul_share_pct": 6.6,
   "overlay_counts": {
     "area_c": {
       "plans_inside": 1995,
