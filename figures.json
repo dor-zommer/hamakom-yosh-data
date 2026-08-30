@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-08-23",
-  "total": 2587,
+  "as_of": "2026-08-30",
+  "total": 2590,
   "sectors": {
     "jewish": 1851,
     "palestinian": 400,
@@ -8,11 +8,11 @@
     "unknown": 147
   },
   "approved": {
-    "jewish": 1311,
+    "jewish": 1312,
     "palestinian": 119
   },
   "rate": {
-    "jewish": 70.8,
+    "jewish": 70.9,
     "palestinian": 29.8
   },
   "units": {
@@ -81,8 +81,8 @@
     },
     {
       "y": "2024",
-      "t": 138,
-      "j": 125,
+      "t": 137,
+      "j": 124,
       "p": 5
     },
     {
@@ -93,13 +93,13 @@
     },
     {
       "y": "2026",
-      "t": 133,
-      "j": 111,
+      "t": 137,
+      "j": 112,
       "p": 0
     }
   ],
   "mapyear": {
     "year": "2026",
-    "count": 106
+    "count": 107
   }
 }
