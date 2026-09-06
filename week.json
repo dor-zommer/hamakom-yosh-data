@@ -1,65 +1,108 @@
 {
-  "generated_at": "2026-08-30T05:40:01Z",
+  "generated_at": "2026-09-06T05:40:02Z",
   "window_days": 7,
-  "new_count": 3,
+  "new_count": 4,
   "new_units": 0,
   "new_30d_count": 22,
   "new_30d_units": 0,
-  "moved_count": 2,
+  "moved_count": 5,
   "moved": [
     {
-      "pl_number": "יוש/ 42/ 2/ 215",
-      "pl_name": "גבעת זאב, שינוי יעוד קרקע",
-      "settlement": "גבעת זאב",
+      "pl_number": "יוש/ 7/ 201",
+      "pl_name": "בית אריה עופרים, הוראות לבריכות שחיה פרטיות",
+      "settlement": "בית אריה",
       "sector": "jewish",
       "units": 0,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "אישור",
-      "at": "2026-08-26",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005203136/310"
+      "from": "בבדיקה תכנונית",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-09-03",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005437950/310"
     },
     {
-      "pl_number": "יוש/ 2/ 1/ 413",
-      "pl_name": "הרחבת היישוב מעלה עמוס",
-      "settlement": "גוש עציון,מעלה עמוס",
+      "pl_number": "יוש/ 25/ 205",
+      "pl_name": "הרחבת שכונת מגורים",
+      "settlement": "מטה בנימין,שילה",
       "sector": "jewish",
-      "units": 365,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "הכרעה בהתנגדויות / אישור",
-      "at": "2026-08-26",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005405160/310"
+      "units": 90,
+      "from": "בהליך אישור",
+      "to": "אישור",
+      "at": "2026-08-31",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005198566/310"
+    },
+    {
+      "pl_number": "יוש/ 4/ 104",
+      "pl_name": "מעוז, הקמת יישוב חדש",
+      "settlement": "מבוא דותן,שומרון",
+      "sector": "jewish",
+      "units": 101,
+      "from": "בבדיקה תכנונית",
+      "to": "נדחתה",
+      "at": "2026-08-31",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000956413/310"
+    },
+    {
+      "pl_number": "יוש/ 43/ 3/ 2/ 130",
+      "pl_name": "אריאל, הסדרת גבולות.",
+      "settlement": "אריאל",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בבדיקה תכנונית",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-08-31",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005511048/310"
+    },
+    {
+      "pl_number": "יוש/ 15/ 122",
+      "pl_name": "שערי תקווה, שינוי ייעוש משטח חקלאי לשכונת מגורים, 192 יח\"ד",
+      "settlement": "שומרון,שערי תקווה",
+      "sector": "jewish",
+      "units": 191,
+      "from": "הכרעה בהתנגדויות / אישור",
+      "to": "בבדיקת תנאי סף",
+      "at": "2026-08-31",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005227248/310"
     }
   ],
   "items": [
     {
-      "pl_number": "יוש/ 1/ 523",
-      "pl_name": "אדוריים, מבני ציבור",
-      "settlement": "אדורים,הר חברון",
+      "pl_number": "711-1624436",
+      "pl_name": "כנפי שחר - מתחם מגורים זמני",
+      "settlement": "כנפי שחר,מטה בנימין",
       "status": "בבדיקה תכנונית",
       "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005570672/310",
-      "first_seen": "2026-08-27"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005557912/310",
+      "first_seen": "2026-08-31"
     },
     {
-      "pl_number": "יוש/ 1/ 174",
-      "pl_name": "חוות גלעד, מבני ציבור",
-      "settlement": "שומרון",
-      "status": "נדחתה",
-      "sector": null,
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005488964/310",
-      "first_seen": "2026-08-25"
-    },
-    {
-      "pl_number": "750-1547066",
-      "pl_name": "עלי זהב - מגרש מס' 50",
-      "settlement": "עלי זהב,שומרון",
+      "pl_number": "יוש/ 7/ ת/ 130",
+      "pl_name": "אריאל, הרחבת פארק תעשיות אריאל מערב",
+      "settlement": "אריאל",
       "status": "בבדיקה תכנונית",
       "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005510716/310",
-      "first_seen": "2026-08-23"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005572834/310",
+      "first_seen": "2026-09-04"
+    },
+    {
+      "pl_number": "יוש/ 139",
+      "pl_name": "מעוז, הקמת יישוב חדש",
+      "settlement": "מעוז,שומרון",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005571548/310",
+      "first_seen": "2026-08-31"
+    },
+    {
+      "pl_number": "יוש/ תמא/ 52",
+      "pl_name": "תכנית מתאר איזורית חלקית לכריה וחציבה מס' 52",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "status": "בבדיקת תנאי סף",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005564684/310",
+      "first_seen": "2026-09-02"
     }
   ]
 }
