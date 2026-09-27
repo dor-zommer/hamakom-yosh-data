@@ -1,131 +1,146 @@
 {
-  "generated_at": "2026-09-20T05:40:01Z",
+  "generated_at": "2026-09-27T05:40:02Z",
   "window_days": 7,
-  "new_count": 3,
+  "new_count": 10,
   "new_units": 0,
-  "new_30d_count": 12,
+  "new_30d_count": 19,
   "new_30d_units": 0,
-  "moved_count": 8,
+  "moved_count": 3,
   "moved": [
     {
-      "pl_number": "יוש/ 8/ 607",
-      "pl_name": "מצפה שלם, 168 יח\"ד",
-      "settlement": "מגילות,מגילות ים המלח,מצפה שלם",
-      "sector": "jewish",
-      "units": 168,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "הכרעה בהתנגדויות / אישור",
-      "at": "2026-09-18",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005330012/310"
+      "pl_number": "יוש/ 1107",
+      "pl_name": "תוכנית מתאר מיוחדת לכפר ביר אל בשא",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "sector": null,
+      "units": 0,
+      "from": "אישור",
+      "to": "נדחתה",
+      "at": "2026-09-24",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000269339/310"
     },
     {
-      "pl_number": "יוש/ 12/ 1/ 9/ 210",
-      "pl_name": "שינוי קו בנין אחורי לתוספות בניה שכונת קריית ספר",
-      "settlement": "מודיעין עילית",
-      "sector": "jewish",
+      "pl_number": "יוש/ 16/ 5/ ת/ 130",
+      "pl_name": "אזור תעשיה ברקן, שינוי ייעודי קרקע",
+      "settlement": "ברקן,שומרון",
+      "sector": "infrastructure_regional",
       "units": 0,
       "from": "הפקדה להתנגדויות/השגות",
-      "to": "אישור",
-      "at": "2026-09-16",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7000952471/310"
-    },
-    {
-      "pl_number": "יוש/ 4/ 517",
-      "pl_name": "הרחבת היישוב, בית חגי.",
-      "settlement": "הר חברון,חגי",
-      "sector": "jewish",
-      "units": 225,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "הכרעה בהתנגדויות / אישור",
-      "at": "2026-09-16",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005360842/310"
-    },
-    {
-      "pl_number": "יוש/ 525",
-      "pl_name": "עשהאל, הקמת יישוב, מגורים, מבני ציבור ושצ\"פ",
-      "settlement": "הר חברון,עשהאל",
-      "sector": "jewish",
-      "units": 342,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "הכרעה בהתנגדויות / אישור",
-      "at": "2026-09-16",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005450476/310"
-    },
-    {
-      "pl_number": "יוש/ 1/ 1/ 3/ 14/ 2/ 240",
-      "pl_name": "הגדלת צפיפות, שינוי ייעוד למגורים ג'",
-      "settlement": "גבע בנימין,מטה בנימין",
-      "sector": "jewish",
-      "units": 86,
-      "from": "במילוי תנאים להפקדה",
-      "to": "הפקדה להתנגדויות/השגות",
-      "at": "2026-09-15",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005363418/310"
-    },
-    {
-      "pl_number": "יוש/ 1/ 1/ 3/ 14/ 2/ 240",
-      "pl_name": "הגדלת צפיפות, שינוי ייעוד למגורים ג'",
-      "settlement": "גבע בנימין,מטה בנימין",
-      "sector": "jewish",
-      "units": 86,
-      "from": "בבדיקה תכנונית",
       "to": "במילוי תנאים להפקדה",
-      "at": "2026-09-15",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005363418/310"
+      "at": "2026-09-23",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005248418/310"
     },
     {
-      "pl_number": "717-1557602",
-      "pl_name": "שינוי לתכנית מפורטת 117/8/3",
-      "settlement": "קרני שומרון",
-      "sector": "jewish",
+      "pl_number": "יוש/ 16/ 5/ ת/ 130",
+      "pl_name": "אזור תעשיה ברקן, שינוי ייעודי קרקע",
+      "settlement": "ברקן,שומרון",
+      "sector": "infrastructure_regional",
       "units": 0,
       "from": "במילוי תנאים להפקדה",
       "to": "הפקדה להתנגדויות/השגות",
-      "at": "2026-09-14",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005517410/310"
-    },
-    {
-      "pl_number": "יוש/ 15/ 130",
-      "pl_name": "אריאל צפון, הרחבת שכונת מגורים",
-      "settlement": "אריאל",
-      "sector": "jewish",
-      "units": 98,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "הכרעה בהתנגדויות / אישור",
-      "at": "2026-09-14",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005284634/310"
+      "at": "2026-09-22",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005248418/310"
     }
   ],
   "items": [
     {
-      "pl_number": "751-1607522",
-      "pl_name": "תוכנית מפורטת מס' 126/4/2 ליישוב עץ אפרים",
-      "settlement": "שער השומרון",
+      "pl_number": "יוש/ 28/ 2/ 2/ 2/ 420",
+      "pl_name": "מעלה אדומים, שינוי ייעוד לתעשייה, מגרשים מס' 455 456",
+      "settlement": "מעלה אדומים",
       "status": "בבדיקה תכנונית",
       "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005546964/310",
-      "first_seen": "2026-09-18"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005577966/310",
+      "first_seen": "2026-09-25"
     },
     {
-      "pl_number": "713-1611227",
-      "pl_name": "בית חוגלה",
-      "settlement": "מגילות",
+      "pl_number": "יוש/ 7/ 128",
+      "pl_name": "ברקן, שינוי הוראות ומגבלות בניה מגרש מס' 120",
+      "settlement": "ברקן,שומרון",
       "status": "בבדיקה תכנונית",
       "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005549124/310",
-      "first_seen": "2026-09-17"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005577934/310",
+      "first_seen": "2026-09-25"
     },
     {
-      "pl_number": "799-1634476",
-      "pl_name": "נעה",
+      "pl_number": "712-1641596",
+      "pl_name": "מתקן הנדסי ישוב משואה",
+      "settlement": "ערבות הירדן",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005568568/310",
+      "first_seen": "2026-09-23"
+    },
+    {
+      "pl_number": "705-1580414",
+      "pl_name": "גבעת זאב-שכונת אגן האיילות- תכנית 220/10/7/3",
+      "settlement": "גבעת זאב",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005530088/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "710-1541341",
+      "pl_name": "איתמר (163/5)",
+      "settlement": "איתמר,שומרון",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005507552/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "711-1625318",
+      "pl_name": "מצוקי ארץ - מתחם מגורים זמני",
+      "settlement": "מטה בנימין,מצוקי ארץ (נוף גלעד)",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005558500/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "714-1582436",
+      "pl_name": "400/3",
+      "settlement": "גוש עציון",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005531362/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "714-1618271",
+      "pl_name": "ראש צורים (403/1/7)",
+      "settlement": "גוש עציון,ראש צורים",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005553652/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "710-1634450",
+      "pl_name": "עמק דותן",
       "settlement": "שומרון",
       "status": "בבדיקה תכנונית",
       "sector": null,
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005564080/310",
-      "first_seen": "2026-09-17"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005564076/310",
+      "first_seen": "2026-09-22"
+    },
+    {
+      "pl_number": "710-1547066",
+      "pl_name": "עלי זהב - מגרש מס' 50",
+      "settlement": "עלי זהב,שומרון",
+      "status": "בבדיקה תכנונית",
+      "sector": null,
+      "units": 0,
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005510716/310",
+      "first_seen": "2026-09-22"
     }
   ]
 }
