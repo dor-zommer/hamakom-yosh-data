@@ -1,19 +1,19 @@
 {
-  "as_of": "2026-10-04",
-  "total": 2609,
+  "as_of": "2026-10-11",
+  "total": 2615,
   "sectors": {
-    "jewish": 1851,
-    "palestinian": 400,
-    "infra": 170,
-    "unknown": 147
+    "jewish": 1890,
+    "palestinian": 404,
+    "infra": 173,
+    "unknown": 148
   },
   "approved": {
-    "jewish": 1319,
-    "palestinian": 119
+    "jewish": 1318,
+    "palestinian": 121
   },
   "rate": {
-    "jewish": 71.3,
-    "palestinian": 29.8
+    "jewish": 69.7,
+    "palestinian": 30.0
   },
   "units": {
     "jewish": 117895,
@@ -23,7 +23,7 @@
     "jewish": 60210,
     "palestinian": 0
   },
-  "geocoded": 2568,
+  "geocoded": 2572,
   "by_year": [
     {
       "y": "2015",
@@ -46,7 +46,7 @@
     {
       "y": "2018",
       "t": 119,
-      "j": 102,
+      "j": 103,
       "p": 5
     },
     {
@@ -75,8 +75,8 @@
     },
     {
       "y": "2023",
-      "t": 121,
-      "j": 110,
+      "t": 120,
+      "j": 109,
       "p": 6
     },
     {
@@ -87,19 +87,19 @@
     },
     {
       "y": "2025",
-      "t": 344,
-      "j": 319,
+      "t": 341,
+      "j": 317,
       "p": 5
     },
     {
       "y": "2026",
-      "t": 169,
-      "j": 128,
+      "t": 179,
+      "j": 169,
       "p": 0
     }
   ],
   "mapyear": {
     "year": "2026",
-    "count": 122
+    "count": 130
   }
 }
