@@ -23,7 +23,7 @@
     "jewish": 60210,
     "palestinian": 0
   },
-  "geocoded": 2572,
+  "geocoded": 2604,
   "by_year": [
     {
       "y": "2015",
@@ -100,6 +100,6 @@
   ],
   "mapyear": {
     "year": "2026",
-    "count": 130
+    "count": 158
   }
 }

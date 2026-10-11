@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T05:40:03Z",
+  "generated_at": "2026-10-11T07:41:18Z",
   "total_plans": 2615,
-  "geocoded": 2572,
-  "curated_map_plans": 130,
+  "geocoded": 2604,
+  "curated_map_plans": 158,
   "regul_plans": 172,
   "excluded_infra": 173,
   "excluded_unknown": 148,
@@ -491,14 +491,14 @@
   "regul_share_pct": 6.6,
   "overlay_counts": {
     "area_c": {
-      "plans_inside": 1999,
+      "plans_inside": 2033,
       "units_inside": 113420,
-      "pct_of_geocoded": 77.7
+      "pct_of_geocoded": 78.1
     },
     "state_land": {
-      "plans_inside": 937,
+      "plans_inside": 954,
       "units_inside": 62445,
-      "pct_of_geocoded": 36.4
+      "pct_of_geocoded": 36.6
     },
     "firing_zones": {
       "plans_inside": 80,
@@ -506,11 +506,11 @@
       "pct_of_geocoded": 3.1
     },
     "agriculture": {
-      "plans_inside": 20,
+      "plans_inside": 21,
       "units_inside": 1283,
       "pct_of_geocoded": 0.8
     }
   },
-  "geocoded_basis": 2572,
+  "geocoded_basis": 2604,
   "quarantined": 0
 }
