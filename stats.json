@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T07:41:18Z",
-  "total_plans": 2615,
+  "generated_at": "2026-10-18T05:40:03Z",
+  "total_plans": 2623,
   "geocoded": 2604,
   "curated_map_plans": 158,
   "regul_plans": 172,
@@ -9,13 +9,13 @@
   "sector_final_approval": {
     "jewish": {
       "plans": 1890,
-      "approve_rate": 69.7,
+      "approve_rate": 69.8,
       "units_in_plans": 117895,
-      "units_approved": 60210
+      "units_approved": 60276
     },
     "palestinian": {
-      "plans": 404,
-      "approve_rate": 30.0,
+      "plans": 412,
+      "approve_rate": 29.4,
       "units_in_plans": 104,
       "units_approved": 0
     }
@@ -23,13 +23,13 @@
   "sector_wide_approval": {
     "jewish": {
       "plans": 1890,
-      "approve_rate": 71.3,
+      "approve_rate": 71.4,
       "units_in_plans": 117895,
-      "units_approved": 64368
+      "units_approved": 64434
     },
     "palestinian": {
-      "plans": 404,
-      "approve_rate": 31.9,
+      "plans": 412,
+      "approve_rate": 31.3,
       "units_in_plans": 104,
       "units_approved": 104
     }
@@ -199,10 +199,10 @@
     },
     {
       "year": "2003",
-      "plans": 20,
+      "plans": 21,
       "units": 214,
       "jewish": 17,
-      "palestinian": 0
+      "palestinian": 1
     },
     {
       "year": "2004",
@@ -248,10 +248,10 @@
     },
     {
       "year": "2010",
-      "plans": 16,
+      "plans": 17,
       "units": 1,
       "jewish": 8,
-      "palestinian": 3
+      "palestinian": 4
     },
     {
       "year": "2011",
@@ -269,10 +269,10 @@
     },
     {
       "year": "2013",
-      "plans": 192,
+      "plans": 194,
       "units": 2010,
       "jewish": 111,
-      "palestinian": 62
+      "palestinian": 64
     },
     {
       "year": "2014",
@@ -283,10 +283,10 @@
     },
     {
       "year": "2015",
-      "plans": 147,
+      "plans": 150,
       "units": 3298,
       "jewish": 105,
-      "palestinian": 28
+      "palestinian": 31
     },
     {
       "year": "2016",
@@ -325,10 +325,10 @@
     },
     {
       "year": "2021",
-      "plans": 86,
+      "plans": 87,
       "units": 4419,
       "jewish": 58,
-      "palestinian": 18
+      "palestinian": 19
     },
     {
       "year": "2022",
@@ -354,14 +354,14 @@
     {
       "year": "2025",
       "plans": 341,
-      "units": 45097,
+      "units": 45751,
       "jewish": 317,
       "palestinian": 5
     },
     {
       "year": "2026",
       "plans": 179,
-      "units": 16807,
+      "units": 16153,
       "jewish": 169,
       "palestinian": 0
     }
@@ -369,15 +369,15 @@
   "status_by_sector": [
     {
       "status": "אישור",
-      "jewish": 1318,
+      "jewish": 1319,
       "palestinian": 121,
-      "jewish_units": 60210,
+      "jewish_units": 60276,
       "palestinian_units": 0
     },
     {
       "status": "בבדיקה תכנונית",
       "jewish": 252,
-      "palestinian": 115,
+      "palestinian": 117,
       "jewish_units": 23303,
       "palestinian_units": 0
     },
@@ -391,22 +391,22 @@
     {
       "status": "בבדיקת תנאי סף",
       "jewish": 12,
-      "palestinian": 96,
+      "palestinian": 102,
       "jewish_units": 713,
       "palestinian_units": 0
     },
     {
       "status": "במילוי תנאים להפקדה",
-      "jewish": 63,
+      "jewish": 64,
       "palestinian": 23,
-      "jewish_units": 8622,
+      "jewish_units": 9342,
       "palestinian_units": 0
     },
     {
       "status": "הפקדה להתנגדויות/השגות",
-      "jewish": 40,
+      "jewish": 39,
       "palestinian": 5,
-      "jewish_units": 3418,
+      "jewish_units": 2698,
       "palestinian_units": 0
     },
     {
@@ -418,9 +418,9 @@
     },
     {
       "status": "בהליך אישור",
-      "jewish": 11,
+      "jewish": 10,
       "palestinian": 12,
-      "jewish_units": 852,
+      "jewish_units": 786,
       "palestinian_units": 0
     },
     {
@@ -468,13 +468,13 @@
       "units": 0
     },
     {
-      "category": "openspace",
-      "plans": 61,
+      "category": "(none)",
+      "plans": 64,
       "units": 0
     },
     {
-      "category": "(none)",
-      "plans": 56,
+      "category": "openspace",
+      "plans": 61,
       "units": 0
     },
     {
