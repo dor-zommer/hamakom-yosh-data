@@ -1,115 +1,111 @@
 {
-  "generated_at": "2026-10-18T05:40:03Z",
+  "generated_at": "2026-10-25T05:40:03Z",
   "window_days": 7,
-  "new_count": 8,
+  "new_count": 0,
   "new_units": 0,
-  "new_30d_count": 25,
+  "new_30d_count": 16,
   "new_30d_units": 0,
-  "moved_count": 2,
+  "moved_count": 9,
   "moved": [
+    {
+      "pl_number": "יוש/ 1/ 42/ 2/ 215",
+      "pl_name": "גבעת זאב שינוי יעוד הקרקע",
+      "settlement": "גבעת זאב",
+      "sector": "jewish",
+      "units": 82,
+      "from": "בבדיקה תכנונית",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-10-22",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005388512/310"
+    },
     {
       "pl_number": "יוש/ 1/ 5/ 158",
       "pl_name": "תכנית מפורטת מס 1/ 5/ 158 אבני חפץ שכונה מזרחית שיכון 720 יח''ד",
       "settlement": "אבני חפץ,שומרון",
       "sector": "jewish",
       "units": 720,
-      "from": "הפקדה להתנגדויות/השגות",
-      "to": "במילוי תנאים להפקדה",
-      "at": "2026-10-12",
+      "from": "במילוי תנאים להפקדה",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-10-22",
       "url": "https://mavat.iplan.gov.il/SV4/1/7005360176/310"
     },
     {
-      "pl_number": "יוש/ 1/ 2/ 404",
-      "pl_name": "אלעזר, מגורים ג'",
+      "pl_number": "יוש/ 14/ 123",
+      "pl_name": "שינוי יעוד מקרקע חלקאית לשכונת מגורים",
+      "settlement": "שומרון,שערי תקווה",
+      "sector": "jewish",
+      "units": 126,
+      "from": "במילוי תנאים להפקדה",
+      "to": "הפקדה להתנגדויות/השגות",
+      "at": "2026-10-21",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005449894/310"
+    },
+    {
+      "pl_number": "יוש/ 524",
+      "pl_name": "אביגיל, מגורים, מבני ציבור וייעודים נוספים",
+      "settlement": "אביגיל,הר חברון",
+      "sector": "jewish",
+      "units": 278,
+      "from": "הפקדה להתנגדויות/השגות",
+      "to": "הכרעה בהתנגדויות / אישור",
+      "at": "2026-10-21",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000517859/310"
+    },
+    {
+      "pl_number": "יוש/ 23/ 130",
+      "pl_name": "אריאל, תוספת שימושים במקלטים ציבוריים",
+      "settlement": "אריאל",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בבדיקה תכנונית",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-10-21",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005284658/310"
+    },
+    {
+      "pl_number": "יוש/ 6/ 6/ 1/ 404",
+      "pl_name": "יישוב אלעזר (נתיב האבות): הסדרה סטטוטורית של 7 יח\"ד קיימות",
       "settlement": "אלעזר,גוש עציון",
       "sector": "jewish",
-      "units": 66,
+      "units": 7,
       "from": "בהליך אישור",
-      "to": "אישור",
-      "at": "2026-10-11",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005487870/310"
+      "to": "הכרעה בהתנגדויות / אישור",
+      "at": "2026-10-20",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000912965/310"
+    },
+    {
+      "pl_number": "יוש/ 2/ 1/ 234",
+      "pl_name": "מבנים ומוסדות ציבור יישוב דולב",
+      "settlement": "דולב,מטה בנימין",
+      "sector": "jewish",
+      "units": 0,
+      "from": "בהליך אישור",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-10-20",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000265345/310"
+    },
+    {
+      "pl_number": "יוש/ 3/ 8/ 115",
+      "pl_name": "גבעת טל - שלב ב'",
+      "settlement": "אלפי מנשה",
+      "sector": "jewish",
+      "units": 778,
+      "from": "בהליך אישור",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-10-20",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000345755/310"
+    },
+    {
+      "pl_number": "יוש/ 1/ 1417/ 57",
+      "pl_name": "מתקן טיפול שפכי המוביל המזרחי - תקנון. (בריכת ויסות מט\"ש נבי מוסא)",
+      "settlement": "מחוזית - אזור יהודה ושומרון",
+      "sector": "palestinian",
+      "units": 0,
+      "from": "בהליך אישור",
+      "to": "במילוי תנאים להפקדה",
+      "at": "2026-10-20",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005227558/310"
     }
   ],
-  "items": [
-    {
-      "pl_number": "יוש/ 18/ 60/ 1700",
-      "pl_name": "תוכנית להכשרת בב\"ח ח'18\\92+93  באדמות חברון",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקה תכנונית",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005587772/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 13/ 17/ 1306",
-      "pl_name": "תוכנית להכשרת בב\"ח ש'13\\63 באדמות בית דג'ן",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588880/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 13/ 18/ 1306",
-      "pl_name": "תוכנית להכשרת בב\"ח ש'13\\64 באדמות בית דג'ן",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588890/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 13/ 21/ 1308",
-      "pl_name": "תוכנית להכשרת בב\"ח ש'13\\60 באדמות בית פוריק",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588904/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 13/ 15/ 1306",
-      "pl_name": "תוכנית להכשרת בב\"ח ש'13\\62 באדמות בית דג'ן",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588870/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 13/ 10/ 1306",
-      "pl_name": "תוכנית מפורטת להכשרת בב\"ח ש'13\\35-38 באדמות בית דג'ן בנפת שכם",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקה תכנונית",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7000371085/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 10/ 49/ 1561",
-      "pl_name": "תוכנית להכשרת בב\"ח ר'10\\212 באדמות אל מועייר",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588916/310",
-      "first_seen": "2026-10-14"
-    },
-    {
-      "pl_number": "יוש/ 02/ 20/ 1539",
-      "pl_name": "תוכנית להכשרת בב\"ח ר'02\\115 באדמות דורא אל קרע",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקת תנאי סף",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005588930/310",
-      "first_seen": "2026-10-14"
-    }
-  ]
+  "items": []
 }
