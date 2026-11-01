@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-10-25T05:40:03Z",
-  "total_plans": 2623,
-  "geocoded": 2604,
-  "curated_map_plans": 159,
+  "generated_at": "2026-11-01T05:40:03Z",
+  "total_plans": 2626,
+  "geocoded": 2605,
+  "curated_map_plans": 163,
   "regul_plans": 172,
   "excluded_infra": 173,
   "excluded_unknown": 148,
   "sector_final_approval": {
     "jewish": {
-      "plans": 1890,
+      "plans": 1892,
       "approve_rate": 69.8,
-      "units_in_plans": 117895,
-      "units_approved": 60276
+      "units_in_plans": 117503,
+      "units_approved": 60592
     },
     "palestinian": {
-      "plans": 412,
-      "approve_rate": 29.4,
+      "plans": 413,
+      "approve_rate": 29.3,
       "units_in_plans": 104,
       "units_approved": 0
     }
   },
   "sector_wide_approval": {
     "jewish": {
-      "plans": 1890,
+      "plans": 1892,
       "approve_rate": 71.5,
-      "units_in_plans": 117895,
-      "units_approved": 64719
+      "units_in_plans": 117503,
+      "units_approved": 64643
     },
     "palestinian": {
-      "plans": 412,
-      "approve_rate": 31.3,
+      "plans": 413,
+      "approve_rate": 31.2,
       "units_in_plans": 104,
       "units_approved": 104
     }
@@ -283,10 +283,10 @@
     },
     {
       "year": "2015",
-      "plans": 149,
+      "plans": 150,
       "units": 2520,
       "jewish": 104,
-      "palestinian": 31
+      "palestinian": 32
     },
     {
       "year": "2016",
@@ -297,9 +297,9 @@
     },
     {
       "year": "2017",
-      "plans": 103,
+      "plans": 102,
       "units": 2026,
-      "jewish": 81,
+      "jewish": 80,
       "palestinian": 7
     },
     {
@@ -333,7 +333,7 @@
     {
       "year": "2022",
       "plans": 94,
-      "units": 4712,
+      "units": 4320,
       "jewish": 75,
       "palestinian": 10
     },
@@ -346,38 +346,38 @@
     },
     {
       "year": "2024",
-      "plans": 130,
+      "plans": 129,
       "units": 9259,
-      "jewish": 117,
+      "jewish": 116,
       "palestinian": 5
     },
     {
       "year": "2025",
       "plans": 341,
-      "units": 45113,
+      "units": 44797,
       "jewish": 317,
       "palestinian": 5
     },
     {
       "year": "2026",
-      "plans": 180,
-      "units": 16873,
-      "jewish": 170,
+      "plans": 184,
+      "units": 17189,
+      "jewish": 174,
       "palestinian": 0
     }
   ],
   "status_by_sector": [
     {
       "status": "אישור",
-      "jewish": 1319,
+      "jewish": 1320,
       "palestinian": 121,
-      "jewish_units": 60276,
+      "jewish_units": 60592,
       "palestinian_units": 0
     },
     {
       "status": "בבדיקה תכנונית",
       "jewish": 250,
-      "palestinian": 117,
+      "palestinian": 118,
       "jewish_units": 23221,
       "palestinian_units": 0
     },
@@ -390,30 +390,30 @@
     },
     {
       "status": "בבדיקת תנאי סף",
-      "jewish": 12,
+      "jewish": 10,
       "palestinian": 102,
-      "jewish_units": 713,
+      "jewish_units": 213,
       "palestinian_units": 0
     },
     {
       "status": "במילוי תנאים להפקדה",
-      "jewish": 66,
+      "jewish": 67,
       "palestinian": 24,
       "jewish_units": 9356,
       "palestinian_units": 0
     },
     {
       "status": "הפקדה להתנגדויות/השגות",
-      "jewish": 40,
+      "jewish": 42,
       "palestinian": 5,
-      "jewish_units": 3266,
+      "jewish_units": 3450,
       "palestinian_units": 0
     },
     {
       "status": "הכרעה בהתנגדויות / אישור",
       "jewish": 32,
       "palestinian": 8,
-      "jewish_units": 4443,
+      "jewish_units": 4051,
       "palestinian_units": 104
     },
     {
@@ -445,7 +445,7 @@
     {
       "category": "res_units",
       "plans": 576,
-      "units": 119105
+      "units": 118713
     },
     {
       "category": "infra",
@@ -469,7 +469,7 @@
     },
     {
       "category": "(none)",
-      "plans": 64,
+      "plans": 67,
       "units": 0
     },
     {
@@ -488,11 +488,11 @@
       "units": 0
     }
   ],
-  "regul_share_pct": 6.6,
+  "regul_share_pct": 6.5,
   "overlay_counts": {
     "area_c": {
-      "plans_inside": 2033,
-      "units_inside": 113420,
+      "plans_inside": 2034,
+      "units_inside": 113028,
       "pct_of_geocoded": 78.1
     },
     "state_land": {
@@ -511,6 +511,7 @@
       "pct_of_geocoded": 0.8
     }
   },
-  "geocoded_basis": 2604,
-  "quarantined": 0
+  "geocoded_basis": 2605,
+  "quarantined": 0,
+  "units_unverified_plans": 86
 }
