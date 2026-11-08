@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T05:40:03Z",
-  "total_plans": 2626,
+  "generated_at": "2026-11-08T05:40:03Z",
+  "total_plans": 2627,
   "geocoded": 2605,
   "curated_map_plans": 163,
   "regul_plans": 172,
@@ -8,7 +8,7 @@
   "excluded_unknown": 148,
   "sector_final_approval": {
     "jewish": {
-      "plans": 1892,
+      "plans": 1893,
       "approve_rate": 69.8,
       "units_in_plans": 117503,
       "units_approved": 60592
@@ -22,10 +22,10 @@
   },
   "sector_wide_approval": {
     "jewish": {
-      "plans": 1892,
-      "approve_rate": 71.5,
+      "plans": 1893,
+      "approve_rate": 71.4,
       "units_in_plans": 117503,
-      "units_approved": 64643
+      "units_approved": 64589
     },
     "palestinian": {
       "plans": 413,
@@ -269,14 +269,14 @@
     },
     {
       "year": "2013",
-      "plans": 194,
+      "plans": 195,
       "units": 2010,
       "jewish": 111,
       "palestinian": 64
     },
     {
       "year": "2014",
-      "plans": 157,
+      "plans": 156,
       "units": 2093,
       "jewish": 79,
       "palestinian": 68
@@ -290,16 +290,16 @@
     },
     {
       "year": "2016",
-      "plans": 108,
-      "units": 1413,
-      "jewish": 80,
+      "plans": 109,
+      "units": 1462,
+      "jewish": 81,
       "palestinian": 19
     },
     {
       "year": "2017",
-      "plans": 102,
-      "units": 2026,
-      "jewish": 80,
+      "plans": 101,
+      "units": 1977,
+      "jewish": 79,
       "palestinian": 7
     },
     {
@@ -311,14 +311,14 @@
     },
     {
       "year": "2019",
-      "plans": 146,
+      "plans": 147,
       "units": 3911,
       "jewish": 88,
       "palestinian": 47
     },
     {
       "year": "2020",
-      "plans": 119,
+      "plans": 118,
       "units": 6374,
       "jewish": 75,
       "palestinian": 24
@@ -360,23 +360,23 @@
     },
     {
       "year": "2026",
-      "plans": 184,
+      "plans": 185,
       "units": 17189,
-      "jewish": 174,
+      "jewish": 175,
       "palestinian": 0
     }
   ],
   "status_by_sector": [
     {
       "status": "אישור",
-      "jewish": 1320,
+      "jewish": 1321,
       "palestinian": 121,
       "jewish_units": 60592,
       "palestinian_units": 0
     },
     {
       "status": "בבדיקה תכנונית",
-      "jewish": 250,
+      "jewish": 251,
       "palestinian": 118,
       "jewish_units": 23221,
       "palestinian_units": 0
@@ -404,23 +404,23 @@
     },
     {
       "status": "הפקדה להתנגדויות/השגות",
-      "jewish": 42,
+      "jewish": 41,
       "palestinian": 5,
-      "jewish_units": 3450,
+      "jewish_units": 3155,
       "palestinian_units": 0
     },
     {
       "status": "הכרעה בהתנגדויות / אישור",
-      "jewish": 32,
+      "jewish": 30,
       "palestinian": 8,
-      "jewish_units": 4051,
+      "jewish_units": 3997,
       "palestinian_units": 104
     },
     {
       "status": "בהליך אישור",
-      "jewish": 7,
+      "jewish": 9,
       "palestinian": 11,
-      "jewish_units": 1,
+      "jewish_units": 350,
       "palestinian_units": 0
     },
     {
@@ -469,7 +469,7 @@
     },
     {
       "category": "(none)",
-      "plans": 67,
+      "plans": 68,
       "units": 0
     },
     {

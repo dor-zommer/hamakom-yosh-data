@@ -1,98 +1,67 @@
 {
-  "generated_at": "2026-11-01T05:40:03Z",
+  "generated_at": "2026-11-08T05:40:03Z",
   "window_days": 7,
-  "new_count": 3,
+  "new_count": 1,
   "new_units": 0,
-  "new_30d_count": 17,
+  "new_30d_count": 12,
   "new_30d_units": 0,
-  "moved_count": 5,
+  "moved_count": 4,
   "moved": [
     {
-      "pl_number": "יוש/ 26/ 125",
-      "pl_name": "אלקנה, הרחבת שכונת מגורים",
-      "settlement": "אלקנה",
+      "pl_number": "יוש/ 5/ 222",
+      "pl_name": "פסגות שינוי יעוד הקרקע",
+      "settlement": "מטה בנימין,פסגות",
       "sector": "jewish",
-      "units": 500,
-      "from": "בבדיקת תנאי סף",
-      "to": "הפקדה להתנגדויות/השגות",
-      "at": "2026-10-29",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005117018/310"
-    },
-    {
-      "pl_number": "יוש/ 28/ 510",
-      "pl_name": "יקב גבעת החרסינה קריית ארבע",
-      "settlement": "קריית ארבע",
-      "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקת תנאי סף",
-      "to": "הפקדה להתנגדויות/השגות",
-      "at": "2026-10-28",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7001024353/310"
-    },
-    {
-      "pl_number": "יוש/ 612",
-      "pl_name": "שכונת קדם ערבה",
-      "settlement": "בית חוגלה,מגילות,מגילות ים המלח",
-      "sector": "jewish",
-      "units": 316,
+      "units": 295,
       "from": "הפקדה להתנגדויות/השגות",
+      "to": "הכרעה בהתנגדויות / אישור",
+      "at": "2026-11-05",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005389554/310"
+    },
+    {
+      "pl_number": "יוש/ 6/ 6/ 1/ 404",
+      "pl_name": "יישוב אלעזר (נתיב האבות): הסדרה סטטוטורית של 7 יח\"ד קיימות",
+      "settlement": "אלעזר,גוש עציון",
+      "sector": "jewish",
+      "units": 7,
+      "from": "הכרעה בהתנגדויות / אישור",
+      "to": "בהליך אישור",
+      "at": "2026-11-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7000912965/310"
+    },
+    {
+      "pl_number": "יוש/ 525",
+      "pl_name": "עשהאל, הקמת יישוב, מגורים, מבני ציבור ושצ\"פ",
+      "settlement": "הר חברון,עשהאל",
+      "sector": "jewish",
+      "units": 342,
+      "from": "הכרעה בהתנגדויות / אישור",
+      "to": "בהליך אישור",
+      "at": "2026-11-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005450476/310"
+    },
+    {
+      "pl_number": "יוש/ 70/ 4/ 410",
+      "pl_name": "שינוי הוראות ומגבלות בניה במגרש 543, רח' הל\"ה, אפרת.",
+      "settlement": "אפרת",
+      "sector": "jewish",
+      "units": 0,
+      "from": "הכרעה בהתנגדויות / אישור",
       "to": "אישור",
-      "at": "2026-10-28",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005153594/310"
-    },
-    {
-      "pl_number": "יוש/ 30/ 3/ 214",
-      "pl_name": "הרחבת הישוב הר אדר",
-      "settlement": "הר אדר",
-      "sector": "jewish",
-      "units": 0,
-      "from": "בבדיקה תכנונית",
-      "to": "במילוי תנאים להפקדה",
-      "at": "2026-10-27",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005522570/310"
-    },
-    {
-      "pl_number": "יוש/ 23/ 130",
-      "pl_name": "אריאל, תוספת שימושים במקלטים ציבוריים",
-      "settlement": "אריאל",
-      "sector": "jewish",
-      "units": 0,
-      "from": "במילוי תנאים להפקדה",
-      "to": "הפקדה להתנגדויות/השגות",
-      "at": "2026-10-27",
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005284658/310"
+      "at": "2026-11-04",
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005491712/310"
     }
   ],
   "items": [
     {
-      "pl_number": "704-1563576",
-      "pl_name": "הקמת שכונת מורדות הזית דרום, אפרת",
-      "settlement": "אפרת",
+      "pl_number": "710-1634476",
+      "pl_name": "נעה-אזור מגורים ומבני ציבור למבנים זמניים.",
+      "settlement": "שומרון",
       "status": "בבדיקה תכנונית",
       "sector": "jewish",
       "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005520848/310",
-      "first_seen": "2026-10-27"
-    },
-    {
-      "pl_number": "יוש/ ב/ 322",
-      "pl_name": "הרחבת יישוב רותם",
-      "settlement": "ערבות הירדן,רותם",
-      "status": "במילוי תנאים להפקדה",
-      "sector": "jewish",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7005466962/310",
-      "first_seen": "2026-10-25"
-    },
-    {
-      "pl_number": "יוש/ 12/ 133/ 1712",
-      "pl_name": "תוכנית מפורטת להכשרת בב\"ח ח'12\\259 באדמות כאחיל בנפת חברון",
-      "settlement": "מחוזית - אזור יהודה ושומרון",
-      "status": "בבדיקה תכנונית",
-      "sector": "palestinian",
-      "units": 0,
-      "url": "https://mavat.iplan.gov.il/SV4/1/7000356311/310",
-      "first_seen": "2026-10-26"
+      "url": "https://mavat.iplan.gov.il/SV4/1/7005564080/310",
+      "first_seen": "2026-11-01"
     }
   ]
 }
